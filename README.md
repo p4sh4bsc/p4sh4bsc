@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm p4sh4bdc</h1>
 <h3 align="center">Junior python developer from Russia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bdadmehr0&label=Profile%20views&color=0e75b6&style=flat" alt="bdadmehr0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bdadmehr0&label=Profile%20views&color=0e75b6&style=flat" alt="p4sh4bsc" /> </p>
 
 - 📫 How to reach me **vinogradovartem0412@gmail.com**
 
