@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm p4sh4bsc</h1>
 <h3 align="center">Python Software Engineer from Russia</h3>
 <h3 align="center">My real name is Artem</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=p4sh4bsc&label=Profile%20views&color=0e75b6&style=flat" alt="p4sh4bsc" /> </p>
 
-- 📫 How to reach me **vinogradovartem0412@gmail.com**
+📫 How to reach me: **vinogradovartem0412@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
